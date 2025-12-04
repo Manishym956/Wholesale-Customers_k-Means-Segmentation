@@ -128,7 +128,7 @@ Performed hierarchical clustering using **Ward linkage**.
 
 | Model | Silhouette Score |
 |--------|------------------|
-| **K-Means** | **0.46** |
+| **K-Means** | **0.6**,**0.5** |
 | **Agglomerative** | **0.26** |
 
 **Result:**  
